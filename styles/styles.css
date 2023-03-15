@@ -8,11 +8,11 @@ body {
 }
 
 .next {
-    font-size: 65px;
+    font-size: 85px;
 }
 
 .next a {
-    color: rgb(33, 37, 41);
+    color: rgb(118, 180, 243);
 }
 
 .arrow-next {
@@ -40,13 +40,13 @@ body {
 }
 
 .class-card {
-    background-color: #eeeeee;
-    color: black;
+    background-color: rgb(13, 13, 13);
+    color: rgb(11, 11, 11);
     transition-property: all;
     transition-duration: 0.3s;
 }
 
 .class-card:hover {
     background-color: var(--bs-primary);
-    color: white;
+    color: rgb(247, 249, 250);
 }
